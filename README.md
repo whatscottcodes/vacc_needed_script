@@ -4,7 +4,7 @@ Scripts for finding participants who need vaccinations.
 
 ## Requirements
 
-All required packages are in the requirements.txt file. There is also an included environment.yml file for setting up a conda environment.
+Only requires paceutils to be installed in the environment - use pip install e <local_path/to/pace_utils>.  There is also an included environment.yml file for setting up a conda environment.
 
 ### PaceUtils
 Requires that the paceutils package to be installed. Can be found at http://github.com/whatscottcodes/paceutils.
